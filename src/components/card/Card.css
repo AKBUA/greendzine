@@ -1,0 +1,18 @@
+
+
+.card-wrapper
+{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.img-card-area img{
+    border-radius: 50%;
+}
+.name-area p:hover{
+color: rgb(102, 102, 221);
+cursor: pointer;
+}
